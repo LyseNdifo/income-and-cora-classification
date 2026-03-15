@@ -23,10 +23,8 @@ L’objectif est d’explorer les étapes essentielles d’un projet de classifi
 ```
 income-and-cora-classification/
 │
-├── notebooks/
-│   ├── KNN_adult.ipynb
-│   └── GradientBoosting_cora.ipynb
-│
+├── notebook/
+│   ├── KNN_adult&GradientBoosting_cora.ipynb
 └── README.md
 ```
 
